@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298093404093",
+    "project_id": "ifebuche-project",
+    "storage_bucket": "ifebuche-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298093404093:android:c9ad4688f873156dcdbcd4",
+        "android_client_info": {
+          "package_name": "ife.com.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298093404093-q73814i8raaa10bupvdlf2l8tjtctd5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdL2Se0ma-Ficzn-Uo0EaBbXkil4CN_hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298093404093-q73814i8raaa10bupvdlf2l8tjtctd5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
